@@ -1,5 +1,5 @@
 > [!IMPORTANT]  
-> As of 06/02/24, Vendetta has been discontinued.
+> As of 06/02/24, Vendetta has been discontinued. This is a project i will (maybe) continue while trying to learn react narive at the same time, so it should be *fun*
 
 # Vendetta
 A mod for Discord's mobile apps.
